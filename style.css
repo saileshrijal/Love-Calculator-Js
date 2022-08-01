@@ -18,7 +18,7 @@
 section {
   height: 100vh;
   width: 100vw;
-  background-image: url("assets/background.png");
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCu815khMyS7kXvp9Zx0b072xGccgYQz1v_G0LT7zy8A32XQCo_QcougeRSk38evN1ghP5oxooVV166gRvvEG0fObyJZ7rNHjhZiAQCQEQXn9Vz96cU6ic0U1ejDuEOYCIAIFm6Z2eEGwVXVV2hqdmYyDDrO2xdWVAwnsEWGYIPxX-TsYc8iFyu7fS/s16000/background.png");
   background-position: center;
   background-size: cover;
   display: flex;
